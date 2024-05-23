@@ -20,7 +20,7 @@ const Navbar = () => {
 
   return (
     <div className='navbar'>
-        <img src={logo} alt="" />
+        {/* <img src={logo} alt="" /> */}
         <img src={tg_ic} onClick={openMenu} className='nav-tg-ic' />
         <ul className="nav-menu" ref={menuRef}>
           <img src={tg2_ic} onClick={closeMenu} alt="" className="nav-mob-close" />

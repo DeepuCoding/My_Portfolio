@@ -39,19 +39,21 @@ const Contacts = () => {
         <div className="contact-section">
             <div className="contact-left">
                 <h1>Let's Talk</h1>
-                <p>nofsi jceioi jdiwejdfiow jfiowejpiaj jfwpqojwpo jfpspwqp naijio jfoweja jfirjai gjespoijgpa jgsepjgpjq japejpoeje </p>
+                <p>Welcome to my "Get in touch" section! I’m excited to connect with you. Whether you have a question about my work, a project proposal, or simply want to say hello, please don’t hesitate to reach out. 
+                    <br />Stay informed about my latest projects and updates by subscribing to my newsletter. This section provides a simple form where you can enter your email address to receive regular updates directly in your inbox.
+                </p>
                 <div className="contact-details">
                     <div className="contact-detail">
                         <img src={lc_ic} alt="" />
-                        <p>grtstckdev@gmail.com</p>
+                        <p>dp2512811@gmail.com</p>
                     </div>
                     <div className="contact-detail">
                         <img src={cl_ic} alt="" />
-                        <p>+755-343-534</p>
+                        <p>+91-7985099366</p>
                     </div>
                     <div className="contact-detail">
                         <img src={cl_ic} alt="" />
-                        <p>CA, United States</p>
+                        <p>Bhopal, Madhya Pradesh</p>
                     </div>
                 </div>
             </div>

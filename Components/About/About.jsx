@@ -16,39 +16,45 @@ const About = () => {
             </div>
             <div className="about-right">
                 <div className="about-para">
-                    <p>cjoicmrsj iejfieojr ierjgiosejrgi jgiojserjerwj er9ujerjgv erjfpjve nahoa</p>
-                    <p>klsdniov ivnoirehoisdh oiviohewih jeiionvjperj verojpojrfvnepi vnoajpjfzpoefjpawoe </p>
+                    <p>I'm a passionate web developer with a strong desire to create user-friendly and visually appealing web experiences. I bring 1.5 years of experience to the table, proficient in various web tools and frameworks.</p>
+                    <p>I'm always eager to learn and take on new challenges. Let's connect and discuss your project!</p>
                 </div>
                 <div className="about-skills">
                     <div className="about-skill">
-                        <p>HTML CSS </p> <hr style={{width: "50%"}}/>
+                        <p>HTML CSS JS</p> <hr style={{width: "90%"}}/>
                     </div>
                     <div className="about-skill">
-                        <p>HTML CSS JS </p> <hr style={{width: "70%"}}/>
+                        <p>NODEJS</p> <hr style={{width: "60%"}}/>
                     </div>
                     <div className="about-skill">
-                        <p>HTML & SQL</p> <hr style={{width: "60%"}}/>
+                        <p>MONGODB </p> <hr style={{width: "69%"}}/>
                     </div>
                     <div className="about-skill">
-                        <p> JS BACKENED</p> <hr style={{width: "50%"}}/>
+                        <p>EXPRESS </p> <hr style={{width: "60%"}}/>
+                    </div>
+                    <div className="about-skill">
+                        <p> REACTJS</p> <hr style={{width: "90%"}}/>
+                    </div>
+                    <div className="about-skill">
+                        <p> GITHUB</p> <hr style={{width: "90%"}}/>
                     </div>
                 </div>
             </div>
         </div>
         <div className="about-achs">
             <div className="about-ach">
-                <h1>10+</h1>
+                <h1>1.5+</h1>
                 <p>YEARS OF EXPERIENCE</p>
             </div>
             <hr />
             <div className="about-ach">
-                <h1>90+</h1>
+                <h1>5+</h1>
                 <p>PROJECTS COMPLETED</p>
             </div>
             <hr />
             <div className="about-ach">
-                <h1>15+</h1>
-                <p>HAPPY CLIENTS</p>
+                <h1>10+</h1>
+                <p>REQUIRED SKILLS</p>
             </div>
         </div>
     </div>
